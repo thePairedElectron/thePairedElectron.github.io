@@ -11,13 +11,13 @@ permalink: /skills/
 * {box-sizing: border-box}
 
 .container {
-  width: 25%;
+  width: 100%;
   background-color: #ddd;
 }
 
 .skills {
   text-align: right;
-  padding: 13px;
+  padding: 10px;
   color: white;
 }
 

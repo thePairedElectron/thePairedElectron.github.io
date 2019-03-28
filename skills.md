@@ -4,7 +4,6 @@ title: My Skills
 permalink: /skills/
 ---
 
-Voodoo! Here are my skills :
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -12,13 +11,13 @@ Voodoo! Here are my skills :
 * {box-sizing: border-box}
 
 .container {
-  width: 100%;
+  width: 25%;
   background-color: #ddd;
 }
 
 .skills {
   text-align: right;
-  padding: 10px;
+  padding: 13px;
   color: white;
 }
 
@@ -49,7 +48,6 @@ Voodoo! Here are my skills :
 </head>
 <body>
 
-<h1>My Skills</h1>
 <h2>Programming Languages</h2>
 <p>C++</p>
 <div class="container">

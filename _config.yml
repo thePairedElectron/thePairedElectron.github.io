@@ -1,0 +1,61 @@
+title: Stack Problems
+description: My Personal Stack Problems
+author: Aditya Malshikhare
+github: https://github.com/thepairedelectron
+about: I'm a software engineer by mind and coder @ Heart.I code mainly in Python and sometimes C++ and Java also.
+disqus_shortname: stackproblems
+google_analytics: UA-XXXXXXXX-Y
+avatar_url: /static/img/avatar.jpg
+
+enableTags: true
+tagarray: []
+
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
+
+social:
+    - icon: fa-facebook
+      link: "https://www.facebook.com/thePairedElectron"
+    - icon: fa-twitter
+      link: "https://twitter.com/ohh_yes_adi"
+    - icon: fa-linkedin
+      link: "https://www.linkedin.com/in/aditya-malshikhare/"
+    - icon: fa-stack-exchange
+      link: "#"
+    - icon: fa-github
+      link: "https://github.com/thepairedelectron"
+
+share:
+  twitter_username: github.io
+  fb_appid: 1749788565247320
+
+urls:
+    - text: About Me
+      url: /about/
+    - text: My Projects
+      url: /projects/
+    - text: My Resume
+      url: /resume/
+    - text: Work Experience
+      url: /workex/
+    - text: XML Feed
+      url: /feed.xml
+
+url: "https://thepairedelectron.github.io"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page/:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: ['development']

@@ -1,18 +1,18 @@
 [
 	{
-		"slug": "cool-project",
-		"name": "Cool project 1",
+		"slug": "My Projects",
+		"name": "spam.clf",
 		"image": "placeholder.jpg",
-		"url": "https://www.google.com",
-		"date": "Jan 2014",
-		"tags": ["Angular JS","API"]
+		"url": "https://github.com/thePairedElectron/I_Hack_spam.clf",
+		"date": "Jan 2018",
+		"tags": ["Python","Flask","Machine Learning"]
 	},
 	{
-		"name": "Cool project 2",
+		"name": "Scoreboarding Algorithm Simulation",
 		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "May 2014",
-		"tags": ["Python","Django"]
+		"url": "https://github.com/thePairedElectron/ScoreBoardingViz",
+		"date": "May 2017",
+		"tags": ["Java"]
 	},
 	{
 		"name": "Cool project 3",

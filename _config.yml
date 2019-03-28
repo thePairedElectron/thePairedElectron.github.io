@@ -40,8 +40,8 @@ urls:
       url: /resume/
     - text: Work Experience
       url: /workex/
-    - text: XML Feed
-      url: /feed.xml
+    - text: My Skills
+      url: /skills/
 
 url: "https://thepairedelectron.github.io"
 baseurl: ""

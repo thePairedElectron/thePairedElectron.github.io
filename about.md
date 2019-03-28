@@ -11,4 +11,5 @@ I'm amateur photographer and trekker.
 
 You can e-mail me for suggestions / bugs, any advice related to my domain :) and of course for grabbing a COFFEE!
 email: malshikhareaditya[at]gmail.com
+\newline
 cell: +91 9987875243

@@ -4,6 +4,7 @@ title: My Skills
 permalink: /skills/
 ---
 
+Voodoo! Here are my skills :
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -21,24 +22,43 @@ permalink: /skills/
   color: white;
 }
 
-.html {width: 90%; background-color: #4CAF50;}
-.css {width: 80%; background-color: #2196F3;}
-.js {width: 65%; background-color: #f44336;}
+.cpp {width: 90%; background-color: #4CAF50;}
+.c {width: 80%; background-color: #2196F3;}
+.java {width: 75%; background-color: #f44336;}
 .php {width: 60%; background-color: #808080;}
+.python {width: 75%; background-color: #4CAF50;}
+.javascript {width: 60%; background-color: #f44336;}
+.mysql {width: 90%; background-color: #4CAF50;}
+.tsql {width: 95%; background-color: #2196F3;}
+.mongodb {width: 75%; background-color: #f44336;}
+.flask {width: 75%; background-color: #4CAF50;}
+.django {width: 65%; background-color: #2196F3;}
+.bootstrap {width: 75%; background-color: #f44336;}
+.visualstudio {width: 80%; background-color: #4CAF50;}
+.eclipse {width: 65%; background-color: #2196F3;}
+.androidstudio {width: 75%; background-color: #f44336;}
+.photoshop {width: 95%; background-color: #808080;}
+.illustrator {width: 80%; background-color: #4CAF50;}
+.git {width: 75%; background-color: #2196F3;}
+.junit {width: 60%; background-color: #f44336;}
+.vsts {width: 75%; background-color: #808080;}
+.windows {width: 75%; background-color: #4CAF50;}
+.linux {width: 95%; background-color: #2196F3;}
+.kali {width: 85%; background-color: #f44336;}
 </style>
 </head>
 <body>
 
 <h1>My Skills</h1>
 <h2>Programming Languages</h2>
-<p>C</p>
-<div class="container">
-  <div class="skills c">90%</div>
-</div>
-
 <p>C++</p>
 <div class="container">
-  <div class="skills c++">80%</div>
+  <div class="skills cpp">90%</div>
+</div>
+
+<p>C</p>
+<div class="container">
+  <div class="skills c">80%</div>
 </div>
 
 <p>Java</p>
@@ -86,11 +106,11 @@ permalink: /skills/
 </div>
 <p>Bootstrap</p>
 <div class="container">
-  <div class="skills flask">75%</div>
+  <div class="skills bootstrap">75%</div>
 </div>
 
 <h1> Softwares and Design Tools</h1>
-<p>Visual Studion</p>
+<p>Visual Studio</p>
 <div class="container">
   <div class="skills visualstudio">80%</div>
 </div>
@@ -117,7 +137,7 @@ permalink: /skills/
 </div>
 <p>JUnit</p>
 <div class="container">
-  <div class="skills junit">55%</div>
+  <div class="skills junit">60%</div>
 </div>
 <p>VSTS</p>
 <div class="container">

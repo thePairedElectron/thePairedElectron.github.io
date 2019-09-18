@@ -15,28 +15,16 @@
 		"tags": ["Java"]
 	},
 	{
-		"name": "Cool project 3",
+		"name": "Polaris",
 		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "June 2014",
-		"tags": ["HTML","JQuery","Django"]
+		"url": "https://gitlab.com/crespum/polaris",
+		"date": "September 2019",
+		"tags": ["Python", "Machine Learning"]
 	},
 	{
-		"name": "Cool project 4",
+		"name": "InterMan",
 		"image": "placeholder.jpg",
-		"date": "Oct 2016",
-		"tags": ["Python","nodejs"]
-	},
-	{
-		"name": "Cool project 5",
-		"image": "placeholder.jpg",
-		"date": "Oct 2016",
-		"tags": ["Python","nodejs"]
-	},
-	{
-		"name": "Cool project 6",
-		"image": "placeholder.jpg",
-		"date": "Oct 2016",
-		"tags": ["Python","nodejs"]
+		"date": "Oct 2018",
+		"tags": ["Python","Flask"]
 	}
 ]

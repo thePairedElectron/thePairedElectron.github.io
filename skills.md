@@ -12,6 +12,7 @@ permalink: /skills/
 
 .container {
   width: 100%;
+  padding: 0;
   background-color: #ddd;
 }
 

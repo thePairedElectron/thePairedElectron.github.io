@@ -1,5 +1,9 @@
-
-# My Progress Report of GSoC'19 with Libre Space Foundation
+---
+layout: post
+title:  "My Progress Report of GSoC'19 with Libre Space Foundation"
+date:   2019-10-10 18:34:10 +0700
+categories: [gsoc, machine learning, python]
+---
 
 ***
 ![Google Summer of Code](https://i.imgur.com/LTW3Tgl.png)

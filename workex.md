@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Past Work Experienc
+title: Past Work Experience
 permalink: /workex/
 ---

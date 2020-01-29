@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Recognition of legal amount in bank checks using CapsNet"
+title:  "Legal amount recognition in Bank cheques using Capsule Networks"
 date:   2020-01-01 18:34:10 +0700
 categories: [machine learning, python, banking, opencv]
 ---

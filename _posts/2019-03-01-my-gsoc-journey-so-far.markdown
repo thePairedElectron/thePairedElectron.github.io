@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "My GSOC Journey so far..."
@@ -80,11 +79,11 @@ I got you! Well, I made it. I got a mail from Google with the subject **“GSoC 
 
 ## **My Mentors**
 
-* **Redouane Boumghar** ([@redsharpbyte](https://gitlab.com/redsharpbyte)) for** ESA-SOCIS**: Data scientist for space ops
+* **Redouane Boumghar** ([@redsharpbyte](https://gitlab.com/redsharpbyte)) for **ESA-SOCIS** : Data scientist for space ops
 
-* **Xabier Crespo Alvarez** ([@crespum](https://gitlab.com/crespum)) for** GSoC**: Embedded Systems Consultant
+* **Xabier Crespo Alvarez** ([@crespum](https://gitlab.com/crespum)) for **GSoC**: Embedded Systems Consultant
 
-* [**Hugh Brown](https://saintaardvarkthecarpeted.com/)**
+* ([Hugh Brown](https://saintaardvarkthecarpeted.com/))
 
 ## A Little About Myself
 
@@ -93,10 +92,12 @@ Apart from coding, I like photography, trekking, and biking. I like to read, but
 
 Please find the appropriate link below should anyone choose to view my code/progress or have a social conversation.
 
-[GitHub](https://github.com/thePairedElectron) | [Riot](https://matrix.to/#/@thepairedelectron:matrix.org)| [Email](mailto:malshikhareaditya@gmail.com)
+[GitHub](https://github.com/thePairedElectron)
+[Riot](https://matrix.to/#/@thepairedelectron:matrix.org)
+[Email](mailto:malshikhareaditya@gmail.com)
 
 ## In the end,
 
 I would like to acknowledge and extend my heartfelt gratitude to many other Libre Space Foundation developers and contributors for helping me out whenever I got stuck somewhere and getting me started in my open source journey.
 
-Open source rocks!
+**Open source rocks!**

@@ -28,6 +28,23 @@ permalink: /workex/
       <div class="row-eq-height">
          <div class="col-md-7 col-sm-12">
             <div class="block">
+               <h2>Tensorflow</h2>
+               <h3>Google Code In Mentor</h3>
+               <h4>Nov 2019 - Present</h4>
+               <p>Mentoring students between age 13 to 17 to help them start their journey in open source software development with Google Tensorflow.
+               </p>
+            </div>
+         </div>
+         <div class="col-md-5 col-sm-12">
+            <div class="profile" style="border: 0px;">
+               <img src="/static/img/tensorflow.png" alt="Img" border="0">
+            </div>
+         </div>
+      </div>
+      <br>
+      <div class="row-eq-height">
+         <div class="col-md-7 col-sm-12">
+            <div class="block">
                <h2>Libre Space Foundation</h2>
                <h3>Google Summer of Code Student Developer</h3>
                <h4>Feb 2019 - Sep 2019</h4>

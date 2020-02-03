@@ -50,11 +50,11 @@ permalink: /workex/
                <h3>Student Development Intern</h3>
                <h4>Feb 2019 - Sep 2019</h4>
                <p>Developed an email reports automation tool
-that reduced manual work for reports
-generation and sending emails to client using
-T-SQL and Java SpringBoot. Received PPO for
-outstanding performance.
-                <p>
+                that reduced manual work for reports
+                generation and sending emails to client using
+                T-SQL and Java SpringBoot. Received PPO for
+                outstanding performance.
+                </p>
             </div>
          </div>
          <div class="col-md-5 col-sm-12">

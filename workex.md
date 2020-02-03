@@ -33,7 +33,7 @@ permalink: /workex/
             <div class="block">
                <h2>Libre Space Foundation</h2>
                <h3>Google Summer of Code Student Developer</h3>
-               <h4>
+               <h4>Feb 2019 - Sep 2019</h4>
                <p>Developed a python module for fetching satellites data using SatNOGS API and then applied machine learning on that data for predictive maintenance and health keeping of satellites.<br>
                   Letter of Recommendation from VC of LSF: <a href="https://drive.google.com/file/d/0B2sawsJCSOgqWUxncW1IWHg3andGcmltd05hTG13b2szUllJ/view" target="_blank"></a>
                </p>

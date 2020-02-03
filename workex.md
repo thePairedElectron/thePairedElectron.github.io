@@ -47,7 +47,7 @@ permalink: /workex/
          <div class="col-md-7 col-sm-12">
             <div class="block">
                <h2>MAQ Software</h2>
-               <h3>Student Development Intern</h3>
+               <h3>Software Development Intern</h3>
                <h4>Feb 2019 - Sep 2019</h4>
                <p>Developed an email reports automation tool
                 that reduced manual work for reports
@@ -63,5 +63,6 @@ permalink: /workex/
             </div>
          </div>
       </div>
+      <br>
    </div>
 </section>

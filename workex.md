@@ -3,7 +3,6 @@ layout: page
 title: Past Work Experience
 permalink: /workex/
 ---
-<!-- Portfolio Start -->
 <section id="portfolio-work">
    <div class="container">
       <div class="row-eq-height">
@@ -19,33 +18,50 @@ permalink: /workex/
                </p>
             </div>
          </div>
-         <!-- .col-md-7 close -->
          <div class="col-md-5 col-sm-12">
             <div class="profile" style="border: 0px;">
                <img src="/static/img/envestnet.png" alt="Img">
             </div>
          </div>
-         <!-- .col-md-5 close -->
       </div>
-      <!-- Gergana close --><br>
+      <br>
       <div class="row-eq-height">
          <div class="col-md-7 col-sm-12">
             <div class="block">
                <h2>Libre Space Foundation</h2>
                <h3>Google Summer of Code Student Developer</h3>
                <h4>Feb 2019 - Sep 2019</h4>
-               <p>Developed a python module for fetching satellites data using SatNOGS API and then applied machine learning on that data for predictive maintenance and health keeping of satellites.<br>
-                  Letter of Recommendation from VC of LSF: <a href="https://drive.google.com/file/d/0B2sawsJCSOgqWUxncW1IWHg3andGcmltd05hTG13b2szUllJ/view" target="_blank"></a>
+               <p>Developed a <a href="https://gitlab.com/crespum/polaris" target="_blank">python module</a> for fetching satellites data using SatNOGS API and then applied machine learning on that data for predictive maintenance and health keeping of satellites.<br>
+                <a href="https://drive.google.com/file/d/0B2sawsJCSOgqWUxncW1IWHg3andGcmltd05hTG13b2szUllJ/view" target="_blank">Letter of Recommendation from VC of LSF</a>
                </p>
             </div>
          </div>
-         <!-- .col-md-7 close -->
          <div class="col-md-5 col-sm-12">
             <div class="profile" style="border: 0px;">
                <img src="/static/img/lsf.png" alt="Img" border="0">
             </div>
          </div>
-         <!-- .col-md-5 close -->
+      </div>
+      <br>
+      <div class="row-eq-height">
+         <div class="col-md-7 col-sm-12">
+            <div class="block">
+               <h2>MAQ Software</h2>
+               <h3>Student Development Intern</h3>
+               <h4>Feb 2019 - Sep 2019</h4>
+               <p>Developed an email reports automation tool
+that reduced manual work for reports
+generation and sending emails to client using
+T-SQL and Java SpringBoot. Received PPO for
+outstanding performance.
+                <p>
+            </div>
+         </div>
+         <div class="col-md-5 col-sm-12">
+            <div class="profile" style="border: 0px;">
+               <img src="/static/img/lsf.png" alt="Img" border="0">
+            </div>
+         </div>
       </div>
    </div>
 </section>

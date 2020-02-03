@@ -59,7 +59,7 @@ outstanding performance.
          </div>
          <div class="col-md-5 col-sm-12">
             <div class="profile" style="border: 0px;">
-               <img src="/static/img/lsf.png" alt="Img" border="0">
+               <img src="/static/img/maq.png" alt="Img" border="0">
             </div>
          </div>
       </div>

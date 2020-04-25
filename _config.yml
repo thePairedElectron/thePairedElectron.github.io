@@ -42,6 +42,8 @@ urls:
       url: /workex/
     - text: My Skills
       url: /skills/
+    - text: Photography Feed
+      url: /instafeed/
 
 url: "https://thepairedelectron.github.io"
 baseurl: ""

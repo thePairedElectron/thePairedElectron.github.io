@@ -44,6 +44,8 @@ urls:
       url: /skills/
     - text: Photography Feed
       url: /instafeed/
+    - text: Programming Flashcard
+      url: /flashcards/
 
 url: "https://thepairedelectron.github.io"
 baseurl: ""

@@ -17,7 +17,7 @@ permalink: /workex/
          </div>
          <div class="col-md-5 col-sm-12">
             <div class="profile" style="border: 0px;">
-               <img src="/static/img/jpmc.jpeg" alt="Img">
+               <img src="/static/img/jpmc.jpeg" alt="Img" style="height: 150px; width: 200px;">
             </div>
          </div>
       </div>

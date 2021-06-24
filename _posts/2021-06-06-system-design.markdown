@@ -16,6 +16,6 @@ Tool: Apple Pencil
 <br>
 App: Goodnotes (My favourite) or you can also check out Notability.
 <br>
-<iframe src="pdf/System Design Basics Handbook.pdf" width="100%" height="800rem">
-This browser does not support PDFs. Please download the PDF to view it: <a href="pdf/System Design Basics Handbook.pdf">Download PDF</a>
+<iframe src="/pdf/System Design Basics Handbook.pdf" width="100%" height="800rem">
+This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/System Design Basics Handbook.pdf">Download PDF</a>
 </iframe>

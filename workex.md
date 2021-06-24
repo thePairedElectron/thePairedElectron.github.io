@@ -5,12 +5,29 @@ permalink: /workex/
 ---
 <section id="portfolio-work">
    <div class="container">
+   <div class="row-eq-height">
+         <div class="col-md-7 col-sm-12">
+            <div class="block">
+               <h2>J.P. Morgan & Chase</h2>
+               <h3>Associate</h3>
+               <h4>Jun 2021 - Present</h4>
+               <p>Supply Chain Finance.
+               </p>
+            </div>
+         </div>
+         <div class="col-md-5 col-sm-12">
+            <div class="profile" style="border: 0px;">
+               <img src="/static/img/jpmc.jpeg" alt="Img">
+            </div>
+         </div>
+      </div>
+      <br>
       <div class="row-eq-height">
          <div class="col-md-7 col-sm-12">
             <div class="block">
                <h2>Envestnet Yodlee</h2>
                <h3>Senior Software Engineer</h3>
-               <h4>July 2019 - Present</h4>
+               <h4>July 2019 - May 2021</h4>
                <p>Working on a internal tool of Envestnet Yodlee
                   for data gathering from different financial
                   institutions in order to generate insights from

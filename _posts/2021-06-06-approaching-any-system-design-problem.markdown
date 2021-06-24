@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Approaching any System Design Problem"
-date:   2021-06-06 18:34:10 +0700
+date:   2021-06-07 18:34:10 +0700
 categories: [system design, software development, backend]
 ---
 Steps that you need to follow while approaching any system desing discussion in the system design interviews.
